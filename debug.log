@@ -1,0 +1,36 @@
+[1214/141103.956:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1214/141103.984:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1214/141103.984:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1214/141103.984:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1214/141103.984:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1214/141103.988:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1214/141103.988:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1214/141103.988:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1214/141103.988:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1214/141103.992:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1214/141103.992:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1214/141103.992:ERROR:exception_snapshot_win.cc(98)] thread ID 6564 not found in process
+[1214/141106.219:ERROR:process_info.cc(359)] UncheckedAllocate
+[1215/004041.216:ERROR:process_info.cc(359)] UncheckedAllocate
+[1215/004041.320:ERROR:process_info.cc(359)] UncheckedAllocate
+[0119/215305.389:ERROR:file_io.cc(134)] WriteFile: Boru kapatýlýyor. (0xE8)
+[0125/102621.153:ERROR:process_info.cc(359)] UncheckedAllocate
+[0125/102621.494:ERROR:process_info.cc(359)] UncheckedAllocate
+[0125/102621.844:ERROR:process_info.cc(359)] UncheckedAllocate
+[0125/110133.451:ERROR:process_info.cc(359)] UncheckedAllocate
+[0129/113535.269:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/161727.652:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/163501.957:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/163633.897:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/195800.024:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/195833.364:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/195851.802:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/195851.890:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/200052.196:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/205238.197:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/211044.705:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/211516.607:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/211516.928:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/212810.079:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/212810.170:ERROR:process_info.cc(359)] UncheckedAllocate
+[0131/215923.631:ERROR:process_info.cc(359)] UncheckedAllocate
